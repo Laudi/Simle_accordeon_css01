@@ -1,2 +1,2 @@
-# Simple_accordeon_css01
+# Simple_accordion_css01
 Css only
